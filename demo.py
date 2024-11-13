@@ -1,1 +1,0 @@
-print('this is first commit by ozal 12')
